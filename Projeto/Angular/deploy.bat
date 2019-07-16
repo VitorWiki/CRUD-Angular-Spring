@@ -1,0 +1,1 @@
+xcopy C:\Users\Carambola_66\Desktop\Projetos\Angular C:\"Program Files (x86)"\Jenkins\workspace /E /Y

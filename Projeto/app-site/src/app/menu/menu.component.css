@@ -1,0 +1,32 @@
+@charset "UTF-8";
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    display: flex;
+    background-color: #FF8000;    
+}
+
+li {
+	float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+	text-decoration: none;
+	background-color: #FF8000;
+}
+
+li a:hover {
+    background-color: rgba(106, 141, 173, 0.71);
+}
+
+
+img {
+	float: left;
+	height: 50px;
+  	width: 50px;
+}
